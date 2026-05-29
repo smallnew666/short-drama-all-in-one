@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI短剧全流程"
+  short_description: "小说到短剧资产与分镜提示词"
+  default_prompt: "Use $short-drama-all-in-one to turn my concept or script into a dialogue-driven short-drama script without default voiceover, plus character/scene/prop prompts and 15-second storyboard prompts."
+
+policy:
+  allow_implicit_invocation: true
